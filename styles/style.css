@@ -44,7 +44,10 @@ button {
   padding: 0 15px;
   width: 80%;
 }
-
+.header-container {
+  
+  width: 90%;
+}
 
 .landing {
   background-image: url(../images/bg-hero-desktop.svg);
